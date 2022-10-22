@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 14,
+    "editor.fontFamily": "'Cascadia Code'",
+    "code-runner.clearPreviousOutput": true,
+    "debug.terminal.clearBeforeReusing": true
+}
